@@ -1,0 +1,85 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+5
+saldo
+6
+450000
+8
+1
+1
+i
+1
+1
+0
+1
+1
+3
+1
+1
+1
+4
+1
+61
+' porfavor digite 1 si desea consignar o 2 si desea retirar '
+5
+1
+3
+num
+7
+0
+1
+5
+num=1
+4
+1
+39
+' porfavor digite el valor del retiro '
+5
+1
+6
+retiro
+7
+0
+1
+12
+saldo>retiro
+4
+1
+23
+' saldo insuficiente ' 
+13
+6
+1
+5
+saldo
+12
+saldo-retiro
+4
+1
+32
+' su nuevo saldo es de ' , saldo
+13
+13
+4
+1
+38
+' digite el valor de la consignacion '
+6
+1
+6
+consig
+12
+consig+valor
+4
+1
+32
+' su nuevo saldo es de ' , saldo
+13
+10
+1
